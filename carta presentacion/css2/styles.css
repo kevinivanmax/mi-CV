@@ -1,0 +1,41 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+main{
+    background-color: rgba(222, 184, 135, 0.788);
+    
+}
+.container{
+    text-align: right;
+    background-color: darkolivegreen;
+}
+h1{
+    background-color: rgba(19, 86, 19, 0.651);
+    text-align: center;
+    letter-spacing: 3px;
+    color: bisque;
+    font-size: 28px;
+    font-weight: bold;
+    font-style: italic;
+}
+.datos{
+    font-style: italic;
+    text-decoration: underline;
+}
+h5{
+    font-style: italic;
+}
+p{
+    line-height: 20px;
+}
+#al_centro{
+    text-indent: 400px;
+}
+#pal_centro{
+    text-indent: 480px;
+}
+footer{
+    background-color: darkolivegreen;
+    text-align: right;
+    color: bisque;
+}
